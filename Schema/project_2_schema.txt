@@ -1,0 +1,22 @@
+CREATE TABLE "overdose_deaths" (
+    "state" VARCHAR(2)   NOT NULL,
+    "year" INT   NOT NULL,
+    "month" INT   NOT NULL,
+    "number_of_deaths" INT   NOT NULL,
+     PRIMARY KEY ("state","year","month")
+);
+
+-- Table for drug_overdose
+CREATE TABLE "drug_crimes" (
+    "state" VARCHAR(2)   NOT NULL,
+    "year" INT   NOT NULL,
+    "month" INT   NOT NULL,
+    "number_of_crimes" INT   NOT NULL,
+    "number_f" INT   NOT NULL,
+    "number_m" INT   NOT NULL,
+     PRIMARY KEY ("state","year","month")
+);
+
+
+SELECT * FROM "overdose_deaths";
+SELECT * FROM "drug_crimes";
