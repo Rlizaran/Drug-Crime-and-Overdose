@@ -54,6 +54,7 @@ From this source, five years (2015 – 2019) of recorded drug overdoses from the
 * [Massachusetts](https://github.com/Rlizaran/Drug-Crime-and-Overdose/tree/main/Resources/Massachusetts)
 * [Maine](https://github.com/Rlizaran/Drug-Crime-and-Overdose/tree/main/Resources/Maine)
 * [Rhode Island](https://github.com/Rlizaran/Drug-Crime-and-Overdose/tree/main/Resources/Rhode%20Island)
+* [Conneticat](https://github.com/Rlizaran/Drug-Crime-and-Overdose/tree/main/Resources/Connecticut)
 
 Fields Extracted from CDC csv file:
 * Fields Extracted from CDC CSV file:
@@ -75,6 +76,7 @@ Each File has the following columns:
 * [Massachusetts](https://github.com/Rlizaran/Drug-Crime-and-Overdose/tree/main/Resources/Massachusetts/massachusetts.csv)
 * [Maine](https://github.com/Rlizaran/Drug-Crime-and-Overdose/tree/main/Resources/Maine/maine.csv)
 * [Rhode Island](https://github.com/Rlizaran/Drug-Crime-and-Overdose/blob/main/Resources/Rhode%20Island/rhode_island.csv)
+* [Conneticat](https://github.com/Rlizaran/Drug-Crime-and-Overdose/blob/main/Resources/Connecticut/connecticut_df.csv)
 
 For the CDC file:
 CSV.csv file was renamed for the project as [Death_overdose.csv](https://github.com/Rlizaran/Drug-Crime-and-Overdose/blob/main/Resources/Death_overdose.csv), this file was transformed and manipulated to meet the requirements of the crimes files to be able to put this in a database and finally join with our other source by state and year.
