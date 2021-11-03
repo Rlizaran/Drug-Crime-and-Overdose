@@ -86,10 +86,28 @@ The exact changes of the transformation of this file would be found in detail in
 	<img src=https://github.com/Rlizaran/Drug-Crime-and-Overdose/blob/main/Resources/Images/schema_diagram.PNG width =500 height='auto' />
 </p>
 
-After joining both the CDC and FBI sources together after the Transformation process, 
+Then we joined all the FBI tables into one and calculated the total number of crimes
 <p align="center">
-	<img src= width=500 height='auto' />
+	<img src=https://github.com/Rlizaran/Drug-Crime-and-Overdose/blob/main/Resources/Images/clean_table.PNG width=500 height='auto' />
 </p>
 
+And for the CDC file, we ended up with the following table
+<p align="center">
+	<img src=https://github.com/Rlizaran/Drug-Crime-and-Overdose/blob/main/Resources/Images/cdc_transform.PNG width=500 height='auto' />
+</p>
 
+<p>
+	Then we load both file into our database following the diagram above. FBI source into drug_crimes and CDC csv file into overdose_deaths.
+</p>
 
+After running a query and using a join specified on our [PROJECT_ETL.IPYNB](https://github.com/Rlizaran/Drug-Crime-and-Overdose/blob/main/Cleaning/project_ETL.ipynb),
+we could get a new table as follows
+<p align="center">
+	<img src=https://github.com/Rlizaran/Drug-Crime-and-Overdose/blob/main/Resources/Images/final_query.PNG width=500 height='auto' />
+</p>
+
+# Contributors
+[Maria DiPasqule](https://github.com/edipasq)
+[Aurlian Fousse](https://github.com/aurefousse)
+[Chey Rose Flammer](https://github.com/cheyroseflammer)
+[Rodrigo Lizaran Molina](https://github.com/rlizaran)
