@@ -15,14 +15,16 @@ The statistics that recorded drug overdoses and crimes during this time were tak
 </p>
 
 ## Source of Information
+<div align='center'>
 
 <h3 align="center"> <strong>FBI</strong> </h3>
 <p align="center">
 	<img src=https://github.com/Rlizaran/Drug-Crime-and-Overdose/blob/main/Resources/Images/FBI_logo.jfif width =300 height='auto' />
 </p>
 
-[FBI Crime Data Explorer (CDE)](https://crime-data-explorer.app.cloud.gov/pages/downloads)
-* Under Crime Incident-Based Data by State and Year
+<a align="center" href="https://crime-data-explorer.app.cloud.gov/pages/downloads">FBI Crime Data Explorer (CDE) </a>
+ 
+Under Crime Incident-Based Data by State and Year
 ![Search Tool](https://github.com/Rlizaran/Drug-Crime-and-Overdose/blob/main/Resources/Images/FBI_search.PNG)
 
 <p align="center">
@@ -38,14 +40,16 @@ From this source, five years (2015 – 2019) of recorded crime incidents from th
 
 [Centers for Disease Control and Prevention (CDC)](https://www.cdc.gov/nchs/pressroom/sosmap/drug_poisoning_mortality/drug_poisoning.htm)
 
-<p align="center">
+<p>
 	<img src=https://github.com/Rlizaran/Drug-Crime-and-Overdose/blob/main/Resources/Images/cdc_search.PNG width =500 height='auto' />
 </p>
 
-<p align="center">
+<p>
 The CDC’s Drug Overdose Mortality by State data was downloaded as a single CSV file that contains the number of drug related deaths by state per year.
 From this source, five years (2015 – 2019) of recorded drug overdoses from the states in New England was queried.  The results show the number of drug related deaths by state per year across all genders.
 </p>
+
+</div>
 
 ## Extract
 
