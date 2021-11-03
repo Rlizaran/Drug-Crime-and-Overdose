@@ -107,7 +107,7 @@ we could get a new table as follows
 </p>
 
 # Contributors
-[Maria DiPasqule](https://github.com/edipasq)
-[Aurlian Fousse](https://github.com/aurefousse)
-[Chey Rose Flammer](https://github.com/cheyroseflammer)
-[Rodrigo Lizaran Molina](https://github.com/rlizaran)
+* [Maria DiPasqule](https://github.com/edipasq)
+* [Aurlian Fousse](https://github.com/aurefousse)
+* [Chey Rose Flammer](https://github.com/cheyroseflammer)
+* [Rodrigo Lizaran Molina](https://github.com/rlizaran)
